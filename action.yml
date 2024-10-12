@@ -1,0 +1,7 @@
+name: '@actions/wflact-buildProduces'
+description: 'ONDEMANDENV.dev, @actions/wflact-buildProduces'
+author: 'ONDEMANDENV.dev'
+
+runs:
+  using: node20
+  main: main.js
